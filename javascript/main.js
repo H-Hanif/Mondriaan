@@ -195,7 +195,8 @@ const jsonOpdracht7 = `
     }
 }
 `;
-console.log(jsonOpdracht7);
+const objectopdracht7 = JSON.stringify(jsonOpdracht7)
+console.log(objectopdracht7);
 
 //opdracht 8
 const jsonOpdracht8 = `
@@ -226,4 +227,5 @@ const jsonOpdracht8 = `
 	}
 ]
 `;
-console.log(jsonOpdracht8);
+const objectopdracht8 = JSON.stringify(jsonOpdracht8)
+console.log(objectopdracht8);
