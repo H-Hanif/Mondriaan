@@ -39,3 +39,7 @@ console.log("hoogste tempratuur", highest);
 console.log("laagste tempratuur", coldest);
 
 //opdracht 4
+const kaart = "card";
+function roepen() {
+  let 
+}
