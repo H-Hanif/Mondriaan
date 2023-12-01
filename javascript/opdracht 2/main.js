@@ -15,6 +15,7 @@ function wachtwoord() {
   }
 }
 
+/*
 //opdracht 3
 const tempraturen = [
   3.6, 3.9, 6.5, 9.9, 13.4, 16.2, 18.3, 17.9, 14.7, 10.9, 7.0, 4.2,
@@ -43,3 +44,4 @@ const kaart = "card";
 function roepen() {
   let 
 }
+/* */
