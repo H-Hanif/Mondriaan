@@ -1,0 +1,14 @@
+main{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr)
+}
+
+
+div{
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.header{
+    
+}

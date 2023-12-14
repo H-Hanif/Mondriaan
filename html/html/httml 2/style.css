@@ -1,0 +1,43 @@
+main{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 10px;
+    margin: auto;
+    width: 50vw;
+}
+
+.tile-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.header{
+    background-color: aqua;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+.side-bar{
+    background-color: blue;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.tile{
+    background-color: blueviolet;
+    aspect-ratio: 1;
+}
+
+.footer{
+    background-color: darkgray;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 3;
+}
+
