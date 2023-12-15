@@ -1,5 +1,5 @@
 const div = document.querySelector(".box");
-const btn = document.querySelector(".run");
+const kip = document.querySelector(".run");
 const btnChange = document.querySelector(".change")
 let toggle = true;
 const btn2 = document.querySelector
@@ -47,7 +47,7 @@ btn.addEventListener("click" , function(){
     }
 });
 
-[12:51] Daim Hussain
+
 const toggleButton = document.querySelector('.run');
 const box = document.querySelector('.box');
  

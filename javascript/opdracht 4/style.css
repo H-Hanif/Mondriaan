@@ -1,0 +1,14 @@
+.card{
+    width: 200px;
+    border: 2px solid gray;
+    margin: 4px;
+    background-color: brown;
+}
+
+.auto{
+    width: 200px;
+    border: 2px solid gray;
+    margin: 4px;
+    background-color: brown
+}
+
